@@ -4,6 +4,9 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
+    "@babel/runtime": "^7.26.0",
+    "react-is": "^18.3.1",
+    "prop-types": "^15.8.1",
     "@material-ui/icons": "^4.11.2",
     "@material-ui/lab": "^4.0.0-alpha.60",
     "@project-serum/anchor": "^0.14.0",
@@ -54,6 +57,7 @@
     ]
   },
   "devDependencies": {
-    "@types/styled-components": "^5.1.14"
+    "@types/styled-components": "^5.1.14",
+    "@testing-library/dom": "^10.4.0"
   }
 }

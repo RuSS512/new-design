@@ -48,7 +48,8 @@
     ]
   },
   "resolutions": {
-  "postcss": "8.4.31"
+  "postcss": "8.4.31",
+  "postcss-safe-parser": "6.0.0"
 },
   "browserslist": {
     "production": [
